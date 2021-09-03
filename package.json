@@ -1,0 +1,14 @@
+{
+  "name": "reg-suit-ui-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ysgk/reg-suit-ui-repro.git",
+  "author": "ysgk <ysgk@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "reg-keygen-git-hash-plugin": "^0.10.16",
+    "reg-notify-github-plugin": "^0.10.16",
+    "reg-publish-s3-plugin": "^0.10.16",
+    "reg-suit": "^0.10.16"
+  }
+}
